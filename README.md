@@ -93,7 +93,7 @@ It's difficult working with dates and times.  We've taken a look at some of the 
 We should leave this challenge able to work with dates in a web application and with an understanding of some of the complications involved.  For example, encoding a date in text requires specific formatting.
 
 
-[datetime-local]: https://www.w3.org/TR/html-markup/input.datetime-local.html
+[datetime-local]: http://w3c.github.io/html-reference/input.datetime-local.html
 [ISO 8601]: https://en.wikipedia.org/wiki/ISO_8601
 [jquery datepicker]: http://api.jqueryui.com/datepicker/
 [jquery timepicker]: http://timepicker.co/
