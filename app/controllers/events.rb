@@ -1,5 +1,5 @@
 get "/events" do
-  @upcoming_events = Event.order(:starts_at)
+  @upcoming_events = Event.order(:starts_at).select {|event| event.starts_at.strftime("%a,%e %b %Y").to_date > Date.today.strftime("%a,%e %b %Y").to_date}
 
   erb :"events/index"
 end
