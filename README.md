@@ -9,6 +9,6 @@ This program is an assignment completed during my time at Dev Bootcamp computer 
 * CSS
 
 ## Overview
-![Micro Manage](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![Micro Manage](https://github.com/ed13f/Micro-Manage/blob/master/task_manage.png?raw=true "Micro Manage")
 
 
