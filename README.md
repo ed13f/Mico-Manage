@@ -8,7 +8,7 @@ This program is an assignment completed during my time at Dev Bootcamp computer 
 * HTML
 * CSS
 
-## Overview
+## Visual Overview
 ![Micro Manage](https://github.com/ed13f/Micro-Manage/blob/master/task_manage.png?raw=true "Micro Manage")
 
 
