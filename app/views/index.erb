@@ -1,11 +1,11 @@
 <main class="container landing">
   <section class="landing-form col-2">
-    <h1>What Takes Need Attention?</h1>
+    <h1>What Taskes Need Attention?</h1>
     <%= erb :"events/_form", locals: { event: @event } %>
   </section>
 
   <section class="todays-events blue-callout col-2">
-    <h1>Today's tasks</h1>
+    <h1>Today's Tasks</h1>
     <% if @todays_events.length > 0 %>
     <ul class="no-bullets todays-events-list">
       <% @todays_events.each do |event| %>
