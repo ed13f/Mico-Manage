@@ -9,6 +9,6 @@ This program is an assignment completed during my time at Dev Bootcamp computer 
 * CSS
 
 ## Visual Overview
-![Micro Manage](https://github.com/ed13f/Micro-Manage/blob/master/Micro-manage.png?raw=true "Micro Manage")
+![Micro Manage](https://github.com/ed13f/Micro-Manage/blob/master/Micro-Manage.png?raw=true "Micro Manage")
 
 
